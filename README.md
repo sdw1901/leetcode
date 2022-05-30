@@ -219,7 +219,7 @@ public class offer_59_1_maxInWindow_滑动窗口的最大值 {
 
 #### 59.2.队列的最大值
 
-![image-20220413102844899](../pic/队列的最大值.png)
+![image-20220413102844899](./pic/队列的最大值.png)
 
 ```java
 package offer;
