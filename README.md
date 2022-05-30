@@ -150,7 +150,7 @@ public class offer_30_MinStack_获取栈的最小值 {
 
 #### 59.1.滑动窗口的最大值
 
-![image-20220412220513532](../pic/滑动窗口的最大值.png)
+![image-20220412220513532](/pic/滑动窗口的最大值.png)
 
 ```java
 package offer;
