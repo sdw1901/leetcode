@@ -150,7 +150,7 @@ public class offer_30_MinStack_获取栈的最小值 {
 
 #### 59.1.滑动窗口的最大值
 
-![image-20220412220513532](/Users/chenjing/Desktop/temp/pic/滑动窗口的最大值.png)
+![image-20220412220513532](../pic/滑动窗口的最大值.png)
 
 ```java
 package offer;
@@ -219,7 +219,7 @@ public class offer_59_1_maxInWindow_滑动窗口的最大值 {
 
 #### 59.2.队列的最大值
 
-![image-20220413102844899](/Users/chenjing/Desktop/temp/pic/队列的最大值.png)
+![image-20220413102844899](../pic/队列的最大值.png)
 
 ```java
 package offer;
@@ -3451,7 +3451,7 @@ public class ClimbStairs {
 
 
 
-![package](/Users/chenjing/Desktop/temp/pic/package.png)
+![package](../pic/package.png)
 
 
 
@@ -3690,7 +3690,7 @@ public class offer_42_maxSubArray_连续子数组的最大和_动态规划 {
 
 #### 连续自增子数组
 
-![image-20220413163736119](/Users/chenjing/Desktop/temp/pic/连续递增子数组.png)
+![image-20220413163736119](../pic/连续递增子数组.png)
 
 ```java
 class Solution {
@@ -3718,7 +3718,7 @@ class Solution {
 
 #### 连续递增子序列
 
-![image-20220413171032614](/Users/chenjing/Desktop/temp/pic/连续递增子序列4.png)
+![image-20220413171032614](../pic/连续递增子序列.png)
 
 ```java
 class Solution {
